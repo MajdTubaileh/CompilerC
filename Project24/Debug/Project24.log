@@ -1,0 +1,4 @@
+﻿  FileReader.cpp
+c:\users\jihad\source\repos\project24\project24\filereader.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\jihad\source\repos\project24\project24\filereader.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  Project24.vcxproj -> C:\Users\jihad\source\repos\Project24\Debug\Project24.exe
